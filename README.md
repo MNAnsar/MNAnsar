@@ -7,8 +7,11 @@ Here are some ideas to get you started:
 
 
 -->
-<h1 align="center">Greetings! 👋 I am Muhammad Naveed Ansari, a recent graduate with a Bachelor's degree in Information & Technology (2019-2023).</h1>
+<h1 align="center" >
+ <p style = "font-size: 15px;"> 
+  Greetings! 👋 I am Muhammad Naveed Ansari, a recent graduate with a Bachelor's degree in Information & Technology (2019-2023).</p> </h1>
 <h3 align="center"> 
+
  
 
 </h3>
@@ -25,15 +28,13 @@ Here are some ideas to get you started:
 <p align="left">
  <a href="https://linkedin.com/in/muhammad-naveed-ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-naveed-ansari" height="30" width="40" /></a>
 <a href="https://kaggle.com/mnaveedansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mnaveedansari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muhammadnaveedansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammadnaveedansari" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/muhammadnaveedansari" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammadnaveedansari" height="30" width="40" /></a>
 </p>
-<div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnansar&show_icons=true&locale=en&layout=compact" alt="mnansar" style="filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.8));" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnansar&show_icons=true&locale=en&layout=compact" alt="mnansar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnansar&show_icons=true&locale=en" alt="mnansar" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mnansar&" alt="mnansar" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnansar&show_icons=true&locale=en" alt="mnansar" style="filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.8));" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mnansar&" alt="mnansar" style="filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.8));" /></p>
-</div> 
 
 
 
