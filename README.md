@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 - 📫 You can reach out to me via email at mohammedansari3333@gmail.com </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammed-naveed-ansari-575584251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/muhammad-naveed-ansari-575584251](https://www.linkedin.com/in/muhammad-naveed-ansari-575584251/)" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammed-naveed-ansari-575584251/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/muhammad-naveed-ansari-575584251" height="30" width="40" />
+</a>
+
 <a href="https://kaggle.com/mnaveedansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mnaveedansari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/muhammadnaveedansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammadnaveedansari" height="30" width="40" /></a>
 </p>
