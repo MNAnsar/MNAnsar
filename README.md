@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 <h1 align="center">Greetings! 👋 I am Muhammad Naveed Ansari, a recent graduate with a Bachelor's degree in Information & Technology (2019-2023).</h1>
 <h3 align="center"> 
  
-My Professional Goal
-is to initiate a fulfilling career path in Data Science, beginning as a skilled Data Analyst. I am eager to contribute my education and skills to make meaningful strides in the field, and I am excited about the opportunities ahead in this dynamic and impactful industry.
+
 </h3>
 <br>
 
