@@ -7,13 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-<h1 align="center" >
- <p style = "font-size: 15px;"> 
-  Greetings! 👋 I am Muhammad Naveed Ansari, a recent graduate with a Bachelor's degree in Information & Technology (2019-2023).</p> </h1>
-<h3 align="center"> 
-
- 
-
+<h2 align="center">Greetings! 👋 I am Muhammad Naveed Ansari, a recent graduate with a Bachelor's degree in Information & Technology (2019-2023).</h2>
 </h3>
 <br>
 
@@ -26,14 +20,19 @@ Here are some ideas to get you started:
 - 📫 You can reach out to me via email at mohammedansari3333@gmail.com </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://linkedin.com/in/muhammad-naveed-ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-naveed-ansari" height="30" width="40" /></a>
-<a href="https://kaggle.com/mnaveedansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mnaveedansari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muhammadnaveedansari" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammadnaveedansari" height="30" width="40" /></a>
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnansar&show_icons=true&locale=en&layout=compact" alt="mnansar" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnansar&show_icons=true&locale=en" alt="mnansar" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mnansar&" alt="mnansar" /></p>
+<div align="left">
+  <a href="linkedin.com/in/muhammad-naveed-ansari-575584251" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
+</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MNAnsar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MNAnsar&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MNAnsar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
 
 
 
