@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-<h2 align="center">Greetings! 👋 I am Muhammad Naveed Ansari, a recent graduate with a Bachelor's degree in Information & Technology 2023.</h2>
+<h2 align="center">Hi 👋 I am Muhammad Naveed Ansari, a recent graduate with a Bachelor's degree in Information & Technology 2023.</h2>
 </h3>
 <br>
 
