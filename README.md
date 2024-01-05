@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 </h3>
 <br>
 
-- 🔭 I am presently dedicated to advancing my proficiency in Data Analysis.
-- 🌱 I am actively acquiring knowledge in Data Analysis tools to broaden my skill set.
-- 👯 I am seeking collaboration opportunities in the realms of Data Analysis and Data Science.
-- 🤔 I am keen on obtaining guidance in understanding and mastering Machine Learning Algorithms.
-- 🚀 I am committed to refining my skills and knowledge in my field & trying to be better as none are perfect.
-- 💬 Feel free to engage me in discussions about Data Analysis and Data Science.
-- 📫 You can reach out to me via email at mohammedansari3333@gmail.com or [LinkedIn](https://www.linkedin.com/in/muhammad-naveed-ansari-575584251)
+- 🔭 Currently dedicated to advancing proficiency in Data Analysis.
+- 🌱 Actively acquiring knowledge in Data Analysis tools to broaden skill set.
+- 👯 Seeking collaboration opportunities in the realms of Data Analysis and Data Science.
+- 🤔 Eager to obtain guidance in understanding and mastering Machine Learning Algorithms.
+- 🚀 Committed to refining skills and knowledge in the field, striving for continuous improvement.
+- 💬 Feel free to engage in discussions about Data Analysis and Data Science.
+- 📫 Reach out via email at mohammedansari3333@gmail.com or [LinkedIn](https://www.linkedin.com/in/muhammad-naveed-ansari-575584251)
 </br>
 <br></br>
 <div align="left">
