@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 </h3>
 <br>
 
-- 🔭 Currently dedicated to advancing proficiency in Data Analysis.
+- 🔭 Currently dedicated to advancing proficiency in Data Analysis and ML.
 - 🌱 Actively acquiring knowledge in Data Analysis tools to broaden skill set.
 - 👯 Seeking collaboration opportunities in the realms of Data Analysis and Data Science.
 - 🤔 Eager to obtain guidance in understanding and mastering Machine Learning Algorithms.
