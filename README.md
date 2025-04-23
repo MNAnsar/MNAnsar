@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -  Eager to obtain guidance in understanding and mastering Machine Learning Algorithms.
 -  Committed to refining skills and knowledge in the field, striving for continuous improvement.
 -  Feel free to engage in discussions about Data Analysis and Data Science.
--  Reach out via email at mohammedansari3333@gmail.com or [LinkedIn](https://www.linkedin.com/in/muhammad-naveed-ansari-575584251) or [Instagram]([https://www.linkedin.com/in/muhammad-naveed-ansari-575584251](https://www.instagram.com/muhammad._ansari/?next=%2F&hl=en)) 
+-  Reach out via email at mohammedansari3333@gmail.com or [LinkedIn](https://www.linkedin.com/in/muhammad-naveed-ansari-575584251) or [Instagram](https://www.instagram.com/muhammad._ansari/?next=%2F&hl=en) 
 </br>
 <br></br>
 <div align="left">
